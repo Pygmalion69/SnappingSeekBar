@@ -10,7 +10,7 @@ import android.view.*;
 import android.widget.LinearLayout;
 import android.widget.Toast;
 import com.google.gson.Gson;
-import com.tobishiba.snappingseekbar.R;
+import com.tobishiba.snappingseekbar.sample.R;
 import com.tobishiba.snappingseekbar.sample.inappbilling.GoogleIabHelper;
 import com.tobishiba.snappingseekbar.sample.inappbilling.GoogleReceipt;
 import com.tobishiba.snappingseekbar.library.utils.UiUtils;

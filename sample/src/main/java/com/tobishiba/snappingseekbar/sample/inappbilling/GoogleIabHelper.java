@@ -10,7 +10,7 @@ import android.os.RemoteException;
 import android.util.Log;
 import android.widget.Toast;
 import com.android.vending.billing.IInAppBillingService;
-import com.tobishiba.snappingseekbar.R;
+import com.tobishiba.snappingseekbar.sample.R;
 
 /**
  * Helper class for interaction with google wallet service.
